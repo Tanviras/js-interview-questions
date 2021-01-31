@@ -36,5 +36,12 @@
 
 
 //5-undefined
-let name=undefined;
-console.log(name);
+// let name=undefined;
+// console.log(name);
+
+
+
+
+
+//null
+//Null is set by the developer,not gotten from after running from the console like undefined
